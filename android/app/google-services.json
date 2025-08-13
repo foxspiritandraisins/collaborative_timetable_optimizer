@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "733447678161",
+    "project_id": "timetableoptimizer",
+    "storage_bucket": "timetableoptimizer.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733447678161:android:3be79f90f1c842239bbdf0",
+        "android_client_info": {
+          "package_name": "com.raisin.time_ops"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNM90OPwK28YNvHg3GRp4NpSy8uRCmJRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
