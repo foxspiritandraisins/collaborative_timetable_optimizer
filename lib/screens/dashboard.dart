@@ -4,7 +4,6 @@ import 'package:collaborative_timetable_optimizer/components/roundBtn.dart';
 import 'package:collaborative_timetable_optimizer/components/timetableCard.dart';
 import 'package:collaborative_timetable_optimizer/screens/addTimetable.dart';
 import 'package:collaborative_timetable_optimizer/screens/editTimetable.dart';
-import 'package:collaborative_timetable_optimizer/screens/template.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 

@@ -5,7 +5,6 @@ import 'package:collaborative_timetable_optimizer/screens/editTimetable.dart';
 import 'package:collaborative_timetable_optimizer/screens/login.dart';
 import 'package:collaborative_timetable_optimizer/screens/profile.dart';
 import 'package:collaborative_timetable_optimizer/screens/registration.dart';
-import 'package:collaborative_timetable_optimizer/screens/template.dart';
 import 'package:collaborative_timetable_optimizer/screens/welcome.dart';
 import 'package:flutter/material.dart';
 import 'firebase_options.dart';
